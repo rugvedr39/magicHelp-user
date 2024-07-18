@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: false,\n  apiUrl: 'https:big91club.com' // Replace with your local backend URL\n  // apiUrl: 'http://localhost:3000'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
